@@ -1,6 +1,5 @@
 # CS-255-Portfolio
-# Briefly summarize the DriverPass project. Who was the client? What type of system
-did they want you to design?
+# Briefly summarize the DriverPass project. Who was the client? What type of system did they want you to design?
 The owner of driverpass plans to design a software through which we can give them
 a good training of driving. Most of the people he noticed that fails in driving license
 test. So, he thinks that he should do something for them. He thinks that the
