@@ -1,5 +1,5 @@
 # CS-255-Portfolio
-Briefly summarize the DriverPass project. Who was the client? What type of system
+# Briefly summarize the DriverPass project. Who was the client? What type of system
 did they want you to design?
 The owner of driverpass plans to design a software through which we can give them
 a good training of driving. Most of the people he noticed that fails in driving license
@@ -19,12 +19,11 @@ access of databases.
 The other employer of company like drivers, help centers and other office employer
 has duty of their relevant tasks and software should provide the details of their
 duties.
-What did you do particularly well?
+# What did you do particularly well?
 I am working well in designing the requirements of software, because this is very
 important part to design a software. This is time taking and very critical part of
 designing a software. I work hard and do well in this task.
-If you could choose one part of your work on these documents to revise, what
-would you pick? How would you improve it?
+# If you could choose one part of your work on these documents to revise, what would you pick? How would you improve it?
 I should work on functional requirements and non-functional requirements. Because
 I think that this is most important of project and this part is not complete anytime
 because the requirements of project are always change according to the time, I
